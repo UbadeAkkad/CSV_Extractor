@@ -1,2 +1,2 @@
 # CSV_Extractor
- To extract certain fields from a CSV file.
+A simple script to extract certain fields from a CSV file, useful for large data files.
